@@ -1,0 +1,21 @@
+{
+  "name": "sanbercode-apiautomation",
+  "version": "1.0.0",
+  "description": "api automation script witth supertest",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Aris",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "jsonschema": "^1.4.1",
+    "mocha": "^10.7.3",
+    "supertest": "^7.0.0"
+  }
+}
